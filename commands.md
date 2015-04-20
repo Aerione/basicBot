@@ -2,7 +2,7 @@ Commands:
 =========
 
 X specifies a number  
-Arguments between ( ) are optional
+Arguments between ( ) are optional 
 
 
 Manager
@@ -72,7 +72,7 @@ Bouncer
 |!skip | | skip the current song |
 |!status | | display the bot's status and some settings |
 |!timeguard | | toggle the timeguard |
-|!togglebl | | toggle the blacklist |
+|!togglebl | | toggle the blacklisting |
 |!togglemotd | | toggle the motd |
 |!togglevoteskip | | toggle the voteskip |
 |!unban | @user | unban user |
